@@ -14,4 +14,5 @@ Acessar ou contribuir para a construção, a modificação ou o compartilhamento
 [![MOODLE](https://cdn.iconscout.com/icon/free/png-64/moodle-2-569555.png)](https://moodle.feliz.ifrs.edu.br)
 
 Este trabalho está licenciado com uma Licença [Creative Commons - Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/) 
+
 ![Licença](https://i.creativecommons.org/l/by/4.0/88x31.png)
