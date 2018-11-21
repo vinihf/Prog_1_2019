@@ -17,11 +17,6 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 - Exercício 1 | Solução
 
-### Acesso ao Ambiente Virtual de Aprendizagem
-(somente para alunos regurlarmente matriculados no curso de ADS do IFRS - Feliz)
-
-[![MOODLE](https://cdn.iconscout.com/icon/free/png-64/moodle-2-569555.png)](https://moodle.feliz.ifrs.edu.br)
-
 ### Certificação
 Acessar ou contribuir para a construção, a modificação ou o compartilhamento dos recursos disponibilizados neste espaço não garantem qualquer direito de certficação em uma disciplina de Introdução de Programação. Este direito é apenas concedido para alunos regularmente matriculados na disciplina de Programação 1 do curso de ADS do IFRS - Campus Feliz e que obtenham desempenho para aprovação conforme do Projeto Pedagógico do Curso.
 
