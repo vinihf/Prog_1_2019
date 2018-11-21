@@ -1,4 +1,4 @@
-# Introdução a programação com Python
+# Introdução a programação
 
 [![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org)
 
@@ -10,6 +10,10 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 - Aula 1
 
 ### Exercícios e soluções
+
+- Exercício 1 | Solução
+
+### Projetos
 
 - Exercício 1 | Solução
 
