@@ -6,7 +6,7 @@
 Este é o repositório **aberto** da disciplina de Programação 1 do Curso Superior em Análise e Desenvolvimento do Instituto Federal do Rio Grande do Sul - Campus Feliz. Sendo um repositório aberto, sinta-se à vontade para acessá-lo, modificá-lo, adaptá-lo e contribuir para torná-lo um recurso gratuito útil para aqueles que se interessam em aprender programação.
 
 ### Material das aulas
--  [Aula 1]() - Variáveis, expressões e operações
+-  [Aula 1](Aula1.pdf) - Variáveis, expressões e operações
 
 ### Exercícios e soluções
 
