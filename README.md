@@ -10,7 +10,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 ### Exercícios e soluções
 
-- Exercício 1 | Solução
+- [Exercícios da aula 1](Exercícios Aula 1) | Resolução
 
 ### Projetos
 
