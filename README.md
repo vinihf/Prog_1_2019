@@ -10,11 +10,11 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 ### Exercícios e soluções
 
-- [Exercícios da aula 1](Exercícios Aula 1) | Resolução
+- Exercícios da aula 1 | Resolução
 
-### Projetos
+### Projeto
 
-- Exercício 1 | Solução
+- Projeto individual
 
 ### Certificação
 Acessar ou contribuir para a construção, a modificação ou o compartilhamento dos recursos disponibilizados neste espaço não garantem qualquer direito de certficação em uma disciplina de Introdução de Programação. Este direito é apenas concedido para alunos regularmente matriculados na disciplina de Programação 1 do curso de ADS do IFRS - Campus Feliz e que obtenham desempenho para aprovação conforme do Projeto Pedagógico do Curso.
