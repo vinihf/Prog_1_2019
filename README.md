@@ -7,6 +7,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 ### Material das aulas
 -  [Aula 1](Aula1.pdf) - Variáveis, expressões e operações
+-  [Aula 2](Aula2.pdf) - Condicionais | [Slides](Slides_Aula2.pdf)
 
 ### Exercícios e soluções
 
