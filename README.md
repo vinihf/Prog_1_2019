@@ -13,6 +13,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 - [Exercícios da aula 1](./Exercícios1/)
 - [Exercícios da aula 2](./Exercícios2/)
+- [Exercícios da aula 3](./Exercícios3/)
 
 ### Projeto
 
