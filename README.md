@@ -21,7 +21,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 - Projeto individual
 
 ### Certificação
-Acessar ou contribuir para a construção, a modificação ou o compartilhamento dos recursos disponibilizados neste espaço não garantem qualquer direito de certficação em uma disciplina de Introdução de Programação. Este direito é apenas concedido para alunos regularmente matriculados na disciplina de Programação 1 do curso de ADS do IFRS - Campus Feliz e que obtenham desempenho para aprovação conforme do Projeto Pedagógico do Curso.
+Acessar ou contribuir para a construção, a modificação ou o compartilhamento dos recursos disponibilizados neste espaço não garantem qualquer direito de certficação em uma disciplina de Introdução de Programação. Este direito é apenas concedido para alunos regularmente matriculados na disciplina de Programação 1 do curso de ADS do IFRS - Campus Feliz e que obtenham desempenho para aprovação conforme o Projeto Pedagógico do Curso.
 
 Este trabalho está licenciado com uma Licença [Creative Commons - Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/) 
 
