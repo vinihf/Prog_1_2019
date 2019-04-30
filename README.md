@@ -10,6 +10,8 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 -  [Aula 2](Aula2.pdf) - Condicionais | [Slides](Slides_Aula2.pdf)
 -  [Aula 5_1](Aula5_1.pdf) - Repetição (For) | [Slides](Slides_Aula5.pdf)
 -  [Aula 5_2](Aula5_2.pdf) - Repetição (While) 
+-  [Aula 8](Aula6.pdf) - Funções | [Slides](Slides_Aula6.pdf)
+
 
 
 ### Exercícios e soluções
@@ -18,6 +20,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 - [Exercícios da aula 2](./Exercícios2/)
 - [Exercícios da aula 3](./Exercícios3/)
 - [Exercícios da aula 5](./Exercícios5/)
+- [Exercícios da aula 6](./Exercícios6/)
 - [Desafio de programação - URIOnlineJudge](./desafioURI/)
 - [Avaliação 1](./AV1/AV1.pdf) - [Resolução](./AV1)
 
