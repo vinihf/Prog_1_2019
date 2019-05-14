@@ -12,6 +12,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 -  [Aula 5_2](Aula5_2.pdf) - Repetição (While) 
 -  [Aula 8](Aula6.pdf) - Funções | [Slides](Slides_Aula6.pdf)
 -  [Aula 9](Aula7.pdf) - Listas | [Slides](Slides_Aula7.pdf)
+-  [Aula 10](Slides_Aula8.pdf) - Dicionário
 
 
 
@@ -23,6 +24,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 - [Exercícios da aula 5](./Exercícios5/)
 - [Exercícios da aula 6](./Exercicios6/)
 - [Exercícios da aula 9](./Exercicios7/)
+- [Exercícios da aula 10](./Exercicios8/)
 - [Desafio de programação - URIOnlineJudge](./desafioURI/)
 - [Avaliação 1](./AV1/AV1.pdf) - [Resolução](./AV1)
 
