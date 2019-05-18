@@ -18,13 +18,13 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 
 ### Exercícios e soluções
 
-- [Exercícios da aula 1](./Exercícios1/)
-- [Exercícios da aula 2](./Exercícios2/)
-- [Exercícios da aula 3](./Exercícios3/)
-- [Exercícios da aula 5](./Exercícios5/)
-- [Exercícios da aula 6](./Exercicios6/)
-- [Exercícios da aula 9](./Exercicios7/)
-- [Exercícios da aula 10](./Exercicios8/)
+- [Exercícios da aula 1](./Exercícios1/) - Variáveis, expressões e operações
+- [Exercícios da aula 2](./Exercícios2/)- Condicionais
+- [Exercícios da aula 3](./Exercícios3/) - Repetição (For)
+- [Exercícios da aula 5](./Exercícios5/) - Repetição (While) 
+- [Exercícios da aula 6](./Exercicios6/) - Funções 
+- [Exercícios da aula 9](./Exercicios7/) - Lista
+- [Exercícios da aula 10](./Exercicios8/) - Dicionário
 - [Desafio de programação - URIOnlineJudge](./desafioURI/)
 - [Avaliação 1](./AV1/AV1.pdf) - [Resolução](./AV1)
 
