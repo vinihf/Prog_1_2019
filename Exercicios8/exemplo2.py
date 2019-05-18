@@ -3,6 +3,7 @@ nascimentos = {"Pessoa A":50,"Pessoa B":43,"Pessoa C":44}
 #Imprimir as chaves
 for el in nascimentos:
     print(el)
+    
 #Imprimir os valores
 for elementos in nascimentos:
     print(nascimentos[elementos])
