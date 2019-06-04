@@ -29,7 +29,7 @@ Este é o repositório **aberto** da disciplina de Programação 1 do Curso Supe
 - [Exercícios da aula 12](./ExerciciosArquivos/) - Arquivos
 - [Desafio de programação - URIOnlineJudge](./desafioURI/)
 - [Avaliação 1](./AV1/AV1.pdf) - [Resolução](./AV1)
-- [Avaliação 2] [Resolução](./AV2)
+- Avaliação 2 [Resolução](./AV2)
 
 ### Projeto
 
