@@ -1,6 +1,6 @@
 with open('arquivo2.txt','r',encoding='utf-8')as arquivo:
     conteudo = arquivo.readlines()
     for linha in conteudo:
-        linguagens = linha.strip().split("#")
+        linguagens = linha.strip().split("+_#_+")
         print(linguagens[0])
         print(linguagens[1])
